@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>joyce</name>
-    <url>https://daisyblue@github.com/daisyblue/joyce.git</url>
+    <url>https://github.com/daisyblue/joyce</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
